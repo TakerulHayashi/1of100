@@ -1,0 +1,36 @@
+.back{
+    display: block;
+    margin-right: 1000px;
+    text-decoration-line: none;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+h1{
+    background-color: #fff;
+    padding: 100px;
+    border: 10px solid red;
+    margin: 12px 0;
+}
+.list_font {
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(235, 29, 29);
+    display: inline;
+
+}
+
+ol{
+    list-style: none;
+    margin-top: 35px auto;
+}
+li{
+    background-color: #fff;
+    margin-top: 35px auto;
+}
+.nigga{
+    text-decoration-line: none;
+    display: block;
+    color: red;
+    
+}

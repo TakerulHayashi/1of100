@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: rgb(90, 82, 82);
+    margin: 50px;
+}
+
+h1{
+    font-family: sans-serif;
+    color: rgb(43, 29, 29);
+}
+p{
+    font-family: sans-serif; 
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+a{
+    color: rgb(64, 22, 181);
+    text-decoration-line: none;
+}
+a:hover{
+    color: gold;
+}
+
+#ton{
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+.photo_ava{
+    text-align: center;
+}
