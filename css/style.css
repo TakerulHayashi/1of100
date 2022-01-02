@@ -1,16 +1,23 @@
+:root{
+    purple: #7E57C2;
+    gray: #9e9e9e;
+    white: #eeeeee;
+    links: rgb(64, 22, 181);
+}
+
 body{
     text-align: center;
-    background-color: rgb(90, 82, 82);
+    background-color: #9e9e9e;
     margin: 50px;
 }
 
 h1{
     font-family: sans-serif;
-    color: rgb(43, 29, 29);
+    color: #7E57C2;
 }
 p{
     font-family: sans-serif; 
-    color: rgb(255, 255, 255);
+    color: #eeeeee;
     font-weight: bold;
 }
 a{
@@ -31,7 +38,23 @@ img {
     width: 200px;
     height: 200px;
     border-radius: 100px;
+    border: 4px solid #7E57C2;
 }
 .photo_ava{
     text-align: center;
+    margin-top: 100px;
+}
+
+main{
+    background-color: rgb(218, 191, 37);
+    border:4px solid black;
+    border-radius: 4px;
+    padding: 150px;
+    margin: 0px 150px 0px 150px;
+    display: inline-block;
+}   
+.example{
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 30px;
 }

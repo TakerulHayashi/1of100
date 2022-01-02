@@ -6,31 +6,58 @@
     font-size: 30px;
 }
 
-h1{
-    background-color: #fff;
-    padding: 100px;
-    border: 10px solid red;
-    margin: 12px 0;
-}
-.list_font {
-    font-size: 20px;
-    font-weight: bolder;
-    color: rgb(235, 29, 29);
-    display: inline;
 
+h1{
+    color: #7E57C2;
+    background-color: #eeeeee;
+    padding: 60px;
+    border: 10px solid #7E57C2;
+    margin-top: 80px;
+    
 }
+
 
 ol{
     list-style: none;
-    margin-top: 35px auto;
 }
 li{
-    background-color: #fff;
-    margin-top: 35px auto;
+    background-color: #eeeeee;
+    margin-top: 10px;
+    padding:5px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    border-radius: 4px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 .nigga{
     text-decoration-line: none;
+    color: #7E57C2;
+    margin: 30px 12px;
     display: block;
-    color: red;
-    
+
+}
+
+main p{
+    color:black;
+
+
+}
+ 
+#schedule{
+    color:black;
+    background-color: #eeeeee;
+    border: 4px solid #7E57C2;
+    padding: 50px;
+    margin: 40px 40px;
+    margin-bottom: 50px;
+}
+
+.improver {
+    display: inline-block;
+    margin-top: 30px;
+    color:#eeeeee;
+    background-color:#7E57C2;
+    padding: 30px 20px 30px 20px;
+    border-radius: 2px;
 }
